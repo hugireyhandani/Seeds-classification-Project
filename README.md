@@ -16,6 +16,7 @@ This project, part of the MET CS 677 Data Science with Python course, is by Hugi
 - Performance metrics like accuracy and confusion matrices were used for evaluation.
 - SVM with Gaussian and Polynomial Kernels showed high accuracy.
 - Optimal k value for kNN was determined using the Elbow Method.
+<img width="661" alt="image" src="https://github.com/hugireyhandani/Seeds-classification-Project/assets/160537069/f54ffb03-586f-4873-9de5-c2299e70e87c">
 
 ## Conclusions
 - Different models have varying levels of effectiveness in seed classification.
